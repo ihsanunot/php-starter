@@ -1,4 +1,6 @@
-Routing link akhiran wajib ada .php nya
+# Belajar PHP
+
+Testing PHP Dasar - Routing link akhiran wajib ada .php nya
 
 Contoh :
 
